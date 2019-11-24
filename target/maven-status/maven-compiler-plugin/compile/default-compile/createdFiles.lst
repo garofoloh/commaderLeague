@@ -1,0 +1,6 @@
+com\commanderleague\models\User_.class
+com\commanderleague\models\Torneo.class
+com\commanderleague\models\Torneo_.class
+com\commanderleague\models\Role.class
+com\commanderleague\models\User$Builder.class
+com\commanderleague\models\User.class
